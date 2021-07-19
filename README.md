@@ -1,12 +1,16 @@
-# Mega.nz-Link-Checker
-wrenchgearuna herramienta para comprobar si el link de mega está caido o está funcional, sin másgearwrench
+# Mega.nz-Link-Checker 
 
-a tool that checks if the Mega.nz have is working or not.file_folderbook
+🇪🇸una **herramienta** para comprobar si el **link** de mega **está caido o está funcional**, sin más
 
-file_folderbooken al carpeta podrás encontrar un manual que explica como funcionabookfile_folder
 
-inside the binder there is a manual where is explain how to use the tool and the requirements
+🇬🇧a tool that **checks** if the Mega.nz **link is working or not**.
 
-snakehay dos checkers, pero en verdad es el mismo solo que uno escrito con funciones y el otro sin, el que no usa funciones, el 2, es más rapido, recomiendo usar esesnake
+-------------------------------
 
-there are 2 checkers, both options are so similar, one use functioins and the other is a chaotic file, although second one is faster
+
+🇪🇸en al carpeta podrás encontrar un **manual que explica** como funciona
+
+🇬🇧inside the binder there is a **manual who explains** how to use the tool and the requirements
+
+---------------------------
+![WhatsApp Image 2021-07-12 at 14 36 59](https://user-images.githubusercontent.com/87647482/126152642-991f383b-6ba9-4dbd-bc76-719f823ac7e9.jpeg)
